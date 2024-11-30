@@ -47,7 +47,7 @@
 <p>The <code>Trainer</code> class from the <code>transformers</code> library is used for fine-tuning, which simplifies training and evaluation.</p>
 
 <h2 id="evaluation">Evaluation</h2>
-<p>After fine-tuning, the model is evaluated on a validation set to assess its performance. Common metrics for text generation models, such as <strong>BLEU</strong> or <strong>ROUGE</strong>, can be used to measure output quality. This notebook may include specific metrics for the given task.</p>
+<p>After fine-tuning, the model is evaluated on a validation set to assess its performance. </p>
 
 <h2 id="results">Results</h2>
 <p>Once evaluated, the model's performance metrics are displayed to help analyze its effectiveness for the target task. You can further tune parameters or experiment with different datasets for improved performance.</p>
